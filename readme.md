@@ -6,7 +6,7 @@ This is just an easily cloneable repo so I can program my dash to do a bunch of 
 ## Setup
 
 ### Install Dependancies
-Project uses node 5.2.0, libpcap, and optionally, python's pypcap.
+Project uses node 5.2.0, libpcap, and optionally, python's pypcap. Assumes you have an Amazon Dash button, and have followed the setup instructions WITHOUT selecting a product.
 
 Install node dependancies:
 ```bash
@@ -36,6 +36,7 @@ The `config.json` contains three keys for easy project customization.
 1. event: the IFTTT event name
 
 #### 1. Get the mac address of your dash button:
+
 ```bash
 cd node_modules/node-dash-button
 node bin/findbutton # Note: on OSX, you'll have to use sudo.
