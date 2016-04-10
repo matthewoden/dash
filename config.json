@@ -1,0 +1,5 @@
+{
+ "address": "YOUR_DASH_ADDRESS",
+ "maker": "YOUR_IFTTT_MAKER_KEY",
+ "event": "YOUR_EVENT_NAME"
+}
