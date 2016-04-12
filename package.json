@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-dash-button": "^0.3.0",
+    "node-dash-button": "^0.3.0"
   }
 }
