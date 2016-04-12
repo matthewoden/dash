@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "maker-ifttt": "^1.0.0",
     "node-dash-button": "^0.3.0"
   }
 }
